@@ -1,0 +1,30 @@
+Lista de compras:
+
+Creá un programa que:
+
+    Le permita al usuario ingresar productos para armar una lista de compras.
+    Cada vez que escriba un producto, agregalo a la lista.
+    Si escribe "salir", terminá el programa y mostrá la lista final ordenada alfabéticamente.
+
+Inventario:
+
+    Tenés un inventario que es un diccionario:
+
+    inventario = {"tornillos": 10, "tuercas": 15, "arandelas": 7}
+
+Permití que el usuario:
+
+    1. Agregue productos (pidiendo el nombre y la cantidad).
+    2. Quite productos del inventario.
+    3. Si escribe "mostrar", mostrale el inventario completo.
+    4. Si escribe "salir", terminá el programa.
+
+Opcional:
+
+1. Agrega validaciones para verificar si la entrada es numerica o puramente alfabetica.
+2. Si la cantidad de algun producto <= 0, se elimina el producto.
+
+¡¡¡CONOCIMIENTOS REQUERIDOS!!!:
+Variables, Bucles(for, while), condicionales, listas y metodos.
+
+Si quieren agregar alguna funcion adicional o alguna mejora esta permitido.
