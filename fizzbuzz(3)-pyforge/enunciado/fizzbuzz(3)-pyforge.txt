@@ -1,0 +1,13 @@
+Enunciado del ejercicio:
+Dado un número entero N ingresado por el usuario, crear un programa que genere una secuencia de números 
+desde 1 hasta N y que identifique los números que son múltiplos de 3, de 5 o de ambos. Para cada número:
+Si es múltiplo de 3, imprimir "Fizz"
+Si es múltiplo de 5, imprimir "Buzz"
+Si es múltiplo de ambos 3 y 5, imprimir "FizzBuzz"
+Si no es múltiplo de ninguno, imprimir el número tal cual.
+
+Instrucciones adicionales:
+Pedir al usuario que ingrese un número entero.
+Validar que la entrada sea un número entero positivo.
+Utilizar bucles y condicionales para resolver el problema.
+El programa debe ser robusto ante entradas incorrectas.

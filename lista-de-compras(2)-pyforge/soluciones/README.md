@@ -6,8 +6,7 @@ Bienvenido/a a la carpeta de **Soluciones**. Este espacio está destinado a que 
 
 Cada alumno debe crear una carpeta con su nombre y apellido en el siguiente formato:
 
-Nombre_Apellido/
-Copy
+      nombre-del-estudiante-nombre-del-ejercicio(numero-ejercicio).py
 
 ## 📋 Normas de Subida
 
@@ -21,11 +20,11 @@ Copy
 
 🛠️ Recomendaciones
 
-    Revisa tu trabajo: Antes de subir, asegúrate de que todo funcione correctamente.
+   1. Revisa tu trabajo: Antes de subir, asegúrate de que todo funcione correctamente.
 
-    Sé claro: Usa nombres descriptivos y documenta tu código o trabajo.
+   2. Sé claro: Usa nombres descriptivos y documenta tu código o trabajo.
 
-    Colabora: Respeta el trabajo de tus compañeros y mantén el repositorio organizado.
+   3. Colabora: Respeta el trabajo de tus compañeros y mantén el repositorio organizado.
 
 ¡Gracias por seguir estas instrucciones! 🎉
 Con tu colaboración, mantendremos el repositorio ordenado y fácil de usar para todos. 😊
