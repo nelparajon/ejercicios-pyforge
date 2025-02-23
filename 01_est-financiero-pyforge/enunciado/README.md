@@ -1,51 +1,53 @@
-💰 *****Evaluador de Estado financiero - pyForge Ejercicio 1*****
+# 💰 Evaluador de Estado financiero - pyForge Ejercicio 1
 
 Este repositorio fue creado para trabajar el primer ejercicio de pyForge. El objetivo de este programa es evaluar el estado financiero del usuario y determinar a qué clase económica pertenece:
 
-  📉 Clase baja
+  📉 **Clase baja**
   
-  📊 Clase media
+  📊 **Clase media**
   
-  📈 Clase alta
+  📈 **Clase alta**
 
-📋 **Descripción del Programa**
+## 📋 Descripción del Programa
 
 El programa solicitará al usuario los siguientes datos:
 ✍️ Datos Personales
 
-  Nombre
+  **1.** Nombre
   
-  Edad
+  **2.** Edad
 
-💵 **Ingresos**
+### 💵 Ingresos
 
-  Ingreso por trabajo
+  **1.** Ingreso por trabajo
   
-  Ingreso por inversiones
+  **2.** Ingreso por inversiones
   
-  Ingreso por activos
+  **3.** Ingreso por activos
 
-💸 **Gastos**
+### 💸 Gastos
 
-  Gasto en impuestos
+  **1**. Gasto en impuestos
   
-  Gasto en lujos
+  **2.** Gasto en lujos
   
-  Gasto en deudas
+  **3.** Gasto en deudas
   
-  Otros gastos
+  **4.** Otros gastos
 
-🔢 **Cálculos que realiza el programa**
+### 🔢 Cálculos que realiza el programa
 
-  Ingresos Totales: Se obtienen sumando todos los ingresos.
+  **Ingresos Totales:** Se obtienen sumando todos los ingresos.
   
-  Gastos Totales: Se obtienen sumando todos los gastos.
+  **Gastos Totales:** Se obtienen sumando todos los gastos.
   
-  Ingreso Neto: Se calcula restando los gastos totales a los ingresos totales.
+  **Ingreso Neto:** Se calcula restando los gastos totales a los ingresos totales.
   
-    Fórmula: ingreso_neto = ingresos_totales - gastos_totales
+  ***Fórmula:*** 
+  
+    ingreso_neto = ingresos_totales - gastos_totales
 
-🎯 **Determinación de la Clase Económica**
+### 🎯 Determinación de la Clase Económica
 
 El programa evalúa el ingreso neto del usuario y lo clasifica según tres variables predefinidas:
 
@@ -55,7 +57,7 @@ El programa evalúa el ingreso neto del usuario y lo clasifica según tres varia
   
     ingreso_clase_alta
 
-🔍 **Condicionales:**
+### 🔍 Condicionales:
 
   Si el ingreso neto es mayor o igual al ingreso de la clase alta, se mostrará:
   
@@ -71,15 +73,15 @@ El programa evalúa el ingreso neto del usuario y lo clasifica según tres varia
   
     "Perteneces a la clase baja"
 
-📈 ***Opcional: Cálculo de Porcentajes***
+## 📈 Opcional: Cálculo de Porcentajes
 
 El programa también puede calcular qué porcentaje del ingreso de la clase alta o media representa el ingreso neto del usuario:
 
-  Fórmula:
+  **Fórmula:**
   
     porcentaje_clase_alta = (ingreso_neto_usuario / ingreso_clase_alta) * 100
 
-📂 Estructura del Archivo
+## 📂 Estructura del Archivo
 
   El archivo deberá seguir esta estructura:
   
@@ -87,10 +89,10 @@ El programa también puede calcular qué porcentaje del ingreso de la clase alta
 
 Esto permitirá identificar quién envió el archivo para poder revisarlo y corregirlo fácilmente.
 
-📝 ***Recomendaciones de Código***
+## 📝 Recomendaciones de Código
 
-  💡 Comentarios: Es importante comentar el código para explicar qué se hace en cada línea o bloque de código.
+  💡 **Comentarios**: Es importante comentar el código para explicar qué se hace en cada línea o bloque de código.
   
-  🎯 Claridad: Mantener un código limpio y ordenado facilita su revisión y comprensión.
+  🎯 **Claridad**: Mantener un código limpio y ordenado facilita su revisión y comprensión.
 
-¡Listos para programar y aprender juntos! 🚀
+""¡Listos para programar y aprender juntos! 🚀
